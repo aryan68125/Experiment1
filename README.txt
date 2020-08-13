@@ -48,4 +48,4 @@ The above project is strictly for educational purposes here you will learn:->
                                                                        //you can code what you want to do when button is pressed
                                                                        }
 4. how to String.xml file to design the Activiy.xml files (The texts used in the UI is handled by String.xml file)
-                                                                    
+5. how to use ImageView                                      
