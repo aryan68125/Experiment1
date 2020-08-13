@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Experiment1</string>
+    <string name="title">Main Activity</string>
+    <string name="button">click1</string>
+    <string name="button2">click2</string>
+    <string name="button3">click3</string>
+    <string name="textview2">Activity2</string>
+    <string name="textview3">Activity3</string>
+    //Activity4
+    <string name="textview4">Unit Converter</string>
+    <string name="edittext">Enter Pound</string>
+    <string name="button7">Convert</string>
+
+    //layout2
+    <string name="putyourname">Put here your name</string>
+    <string name="output">Output</string>
+    //Activity3
+    <string name="button4">change pic2</string>
+    <string name="button5">change pic3</string>
+    <string name="button6">change pic1</string>
+</resources>
